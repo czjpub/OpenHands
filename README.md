@@ -65,7 +65,7 @@ or run it on tagged issues with [a github action](https://github.com/All-Hands-A
 
 Visit [Installation](https://docs.all-hands.dev/modules/usage/installation) for more information and setup instructions.
 
-If you want to modify the OpenHands source code, check out [Development.md](https://github.com/All-Hands-AI/OpenHands/blob/main/Development.md).
+If you want to modify the OpenHands source code, check out [Development.md](./Development.md).
 
 Having issues? The [Troubleshooting Guide](https://docs.all-hands.dev/modules/usage/troubleshooting) can help.
 
@@ -90,17 +90,19 @@ See more about the community in [COMMUNITY.md](./COMMUNITY.md) or find details o
 
 ## 📈 Progress
 
-See the monthly OpenHands roadmap [here](https://github.com/orgs/All-Hands-AI/projects/1) (updated at the maintainer's meeting at the end of each month).
+Check out our [monthly OpenHands roadmap](https://github.com/orgs/All-Hands-AI/projects/1), which is updated at the maintainer's meeting at the end of each month.
 
 <p align="center">
   <a href="https://star-history.com/#All-Hands-AI/OpenHands&Date">
     <img src="https://api.star-history.com/svg?repos=All-Hands-AI/OpenHands&type=Date" width="500" alt="Star History Chart">
   </a>
+  <br>
+  <em>Watch our community grow! Each star represents a developer who found OpenHands useful.</em>
 </p>
 
 ## 📜 License
 
-Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ## 🙏 Acknowledgements
 
@@ -110,7 +112,7 @@ For a list of open source projects and licenses used in OpenHands, please see ou
 
 ## 📚 Cite
 
-```
+```bibtex
 @misc{openhands,
       title={{OpenHands: An Open Platform for AI Software Developers as Generalist Agents}},
       author={Xingyao Wang and Boxuan Li and Yufan Song and Frank F. Xu and Xiangru Tang and Mingchen Zhuge and Jiayi Pan and Yueqi Song and Bowen Li and Jaskirat Singh and Hoang H. Tran and Fuqiang Li and Ren Ma and Mingzhang Zheng and Bill Qian and Yanjun Shao and Niklas Muennighoff and Yizhe Zhang and Binyuan Hui and Junyang Lin and Robert Brennan and Hao Peng and Heng Ji and Graham Neubig},
